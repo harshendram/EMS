@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Employee Management System (EMS)
 
 A **React** project using **Vite** and **Tailwind CSS**. This project demonstrates my front-end development skills with authentication, task management, and local storage as the backend.
