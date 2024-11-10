@@ -67,5 +67,5 @@ EMS is a simple application to showcase my ability to:
 ---
 
 Enjoy using EMS! 🚀
-```
+
 
